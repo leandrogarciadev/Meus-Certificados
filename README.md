@@ -1,2 +1,2 @@
 # Meus-Certificados
-Aqui eu gosto de guardar meus certificados da minha tragetória!
+Aqui eu guardo todos certificados da minha tragetória!
