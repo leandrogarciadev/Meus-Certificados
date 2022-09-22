@@ -1,2 +1,2 @@
 # Meus-Certificados
-Aqui eu guardo todos certificados da minha tragetória!
+Neste repositório salvo todos certificados da minha tragetória como Dev!
